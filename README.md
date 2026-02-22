@@ -5,4 +5,3 @@
 - 🌱 I’m currently learning Java 21
 - 📫 How to reach me: finnali2003@gmail.com
 - ⚡ Fun fact: I wear a green hat!
--->
