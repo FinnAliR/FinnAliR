@@ -1,4 +1,4 @@
-## Hi there, my name's FinnAli 👋
+## Hi there
 
 - I have a BSc in Computer Science (First-Class Honours) and graduated in July 2025
 - 🔭 I’m currently working on refining my java through java based projects
